@@ -1,0 +1,5 @@
+﻿  Server.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\M1NONOFEBA1234\Desktop\Visual Studio Code Projects\Cooperative Drawing Canvas\Server\Source.cpp(9,9): warning C4930: 'Server server(void)': prototyped function not called (was a variable definition intended?)
+  Server.vcxproj.vcxproj -> C:\Users\M1NONOFEBA1234\Desktop\Visual Studio Code Projects\Cooperative Drawing Canvas\Server\Debug\Server.vcxproj.exe
